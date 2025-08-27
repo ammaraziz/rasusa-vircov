@@ -1,5 +1,7 @@
 # wastewater subsampling pipeline
 
+[![DOI](https://zenodo.org/badge/988197048.svg)](https://doi.org/10.5281/zenodo.16956130)
+
 ### How to run
 
 Git clone this repo and run snakemake:
